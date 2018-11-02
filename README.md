@@ -9,3 +9,4 @@ Evidence *E* confirms hypothesis *H* relative to background *K* iff:
 
 # References
 Goldman, Alvin I, and Matthew McGrath. 2015. *Epistemology: A Contemporary Introduction*. Oxford University Press.
+Predictive value assessment is conceptually tightly connected to risk of bias evaluation and uncertainty articulation
